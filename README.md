@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 👨‍💻 All of my projects are available at [in/saloni-mahadule-a5b446243](in/saloni-mahadule-a5b446243)
+- 👨‍💻 All of my projects and achievements are available at [in/saloni-mahadule-a5b446243](in/saloni-mahadule-a5b446243)
 
 - 💬 Ask me about **Data Structure, ML, DBMS**
 
