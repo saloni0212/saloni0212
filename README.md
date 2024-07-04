@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Structure, ML, DBMS**
 
-- 📫 How to reach me **salonimahadule9@gmail.com**
+- 📫 How to reach me **salonimahadule0212@gmail.com**
 
 - ⚡ Fun fact **I'm an artist, loves to draw realistic sketches and painting.**
 
