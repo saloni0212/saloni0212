@@ -1,15 +1,15 @@
 <!--![logo]( link )-->
 
 <h1 align="center">Hi 👋, I'm Saloni Mahadule</h1>
-<h3 align="center">A final-year BTech CSE student passionate about technology and its applications.</h3>
+<h3 align="center">Currently a Software Engineer Trainee at Fendahl Technology, Nagpur and passionate about technology and its applications.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni0212&label=Profile%20views&color=0e75b6&style=flat" alt="saloni0212" /> </p>
 
-- 🔭 I’m currently working on **Consumer Sentiment Analysis using NLP and Pretrained Transformer Based Models**
+- 🔭 I’ve have worked on **Consumer Sentiment Analysis using NLP and Pretrained Transformer Based Models**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’ve have learned **Machine Learning Algorithms**
 
 - 👨‍💻 All of my projects and achievements are available at [in/saloni-mahadule-a5b446243](in/saloni-mahadule-a5b446243)
 
