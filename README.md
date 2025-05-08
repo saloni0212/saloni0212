@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects and achievements are available at [in/saloni-mahadule-a5b446243](in/saloni-mahadule-a5b446243)
 
-- 💬 Ask me about **Data Structure, ML, DBMS, Python, C/C++**
+- 💬 Ask me about **C#, .NET, Data Structure, ML, DBMS, Python, C/C++**
 
 - 📫 How to reach me **salonimahadule0212@gmail.com**
 
